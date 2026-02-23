@@ -1,6 +1,12 @@
 ---
 name: minions-jobs
+id: OC-0127
+version: 1.0.0
 description: Canonical schemas for job postings and extracted signals across freelance platforms
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-jobs — Agent Skills
