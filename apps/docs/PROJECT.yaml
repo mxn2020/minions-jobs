@@ -1,0 +1,8 @@
+name: minions-jobs-docs
+project_scope: child
+child_type: docs
+parent_project: minions-jobs-workspace
+description: Standard compliance definition for minions-jobs-docs
+priority: high
+deploy_url: null
+tags: null

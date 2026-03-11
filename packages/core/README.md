@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-jobs/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-jobs/sdk
 
 Canonical schemas for job postings and extracted signals across freelance platforms

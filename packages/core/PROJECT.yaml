@@ -1,0 +1,8 @@
+name: "@minions-jobs/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-jobs-workspace
+description: Canonical schemas for job postings and extracted signals across freelance platforms
+priority: high
+deploy_url: null
+tags: null

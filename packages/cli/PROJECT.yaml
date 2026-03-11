@@ -1,0 +1,8 @@
+name: "@minions-jobs/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-jobs-workspace
+description: CLI for minions-jobs — Canonical schemas for job postings and extracted signals across freelance platforms
+priority: high
+deploy_url: null
+tags: null
