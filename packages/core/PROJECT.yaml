@@ -6,3 +6,4 @@ description: Canonical schemas for job postings and extracted signals across fre
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
