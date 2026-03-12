@@ -1,6 +1,6 @@
 {
   "name": "@minions-jobs/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-jobs — Canonical schemas for job postings and extracted signals across freelance platforms",
   "license": "MIT",
   "repository": {
