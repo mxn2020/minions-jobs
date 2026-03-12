@@ -1,0 +1,16 @@
+name: minions-jobs-workspace
+project_scope: main
+project_type: monorepo
+description: Canonical schemas for job postings and extracted signals across freelance platforms
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-jobs"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-jobs-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
